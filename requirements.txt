@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+sqlalchemy
+requests
+psycopg2-binary
+scikit-learn
+joblib
+jupyter
+ipykernel
+kafka-python
+python-dotenv
+pytest
