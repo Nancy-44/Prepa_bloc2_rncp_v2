@@ -156,8 +156,14 @@ Les paramètres sensibles (logins de connexion à la base de données, Kafka, ch
 * Scripts réutilisables et modulaires
 
 ---
-## 4.9 
+## 4.9 Impact environnemental
 
+* Estimation de la consommation énergétique du pipeline
+* Analyse basée sur :
+
+  * temps de calcul
+  * volume de données
+  * nombre d’itérations
 
 ---
 ## 4.10 Pistes d’amélioration
